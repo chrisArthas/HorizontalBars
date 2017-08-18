@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="line">#f7f7f7</color>
+    <color name="gray">#666666</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="light_blue">#6fa8dc</color>
+
+    <color name="light_gray">#7F7F7F</color>
+
+    <color name="holiday_top_back">#b044C9C1</color>
+
+
+    <color name="common_blue">#66cccc</color>
+
+    <color name="press_blue">#33cc99</color>
+
+    <color name="common_red">#cc6666</color>
+
+    <color name="select_grey">#eeeeee</color>
+
+    <color name="num_orange">#fd7502</color>
+
+    <color name="line_grey">#eaeaea</color>
+
+    <color name="top_grey">#f6f6f6</color>
+
+    <color name="video_back">#f1f1f1</color>
+
+    <color name="shushidu_green">#caeceb</color>
+
+
+    <color name="filter_back">#f2f2f2</color>
+
+    <color name="filter_line">#dedede</color>
+
+    <color name="green">#238E23</color>
+
+    <color name="ota_blue">#2F79CB</color>
+
+    <color name="ota_back_grey">#F1F1F1</color>
+</resources>

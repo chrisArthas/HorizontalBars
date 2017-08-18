@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="320dp"
+        android:layout_height="30dp"
+        android:background="#CBDF6E"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+
+        <View
+            android:id="@+id/best"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:background="#355AC5"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true">
+        </View>
+
+        <View
+            android:id="@+id/good"
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:background="#3590C5"
+            android:layout_toRightOf="@id/best">
+        </View>
+
+        <View
+            android:id="@+id/normal"
+            android:layout_width="60dp"
+            android:layout_height="match_parent"
+            android:background="#35B9C5"
+            android:layout_toRightOf="@id/good">
+        </View>
+
+
+        <View
+            android:id="@+id/bad"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#76DF6E"
+            android:layout_toRightOf="@id/normal">
+        </View>
+
+
+        <TextView
+            android:id="@+id/content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            android:text="无锡灵山景区 46"/>
+
+    </RelativeLayout>
+
+</LinearLayout>

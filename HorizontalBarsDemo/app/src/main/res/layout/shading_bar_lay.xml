@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <RelativeLayout
+        android:id="@+id/background"
+        android:layout_width="320dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:background="#E9EFF4">
+
+        <View
+            android:id="@+id/inner_bar"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/shading_bar_background">
+
+        </View>
+
+        <TextView
+            android:id="@+id/content_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:textSize="14sp"
+            android:textColor="@color/black"
+            android:text="无锡灵山景区"/>
+
+
+    </RelativeLayout>
+
+</LinearLayout>

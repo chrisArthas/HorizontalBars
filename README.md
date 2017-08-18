@@ -1,12 +1,12 @@
-# Android×Ô¶¨Öù×´Í¼ 
+# Androidè‡ªå®šæŸ±çŠ¶å›¾ 
 
-ÈıÖĞÖù×´Í¼
-µÚÒ»ÖÖ´ø¶¯»­Ğ§¹û
-![Ô¤ÀÀĞ§¹û](https://github.com/chrisArthas/HorizontalBars/raw/master/device-2017-08-18-161025.png)
+ä¸‰ç§æŸ±çŠ¶å›¾
+ç¬¬ä¸€ç§å¸¦åŠ¨ç”»æ•ˆæœ
+![é¢„è§ˆæ•ˆæœ](https://github.com/chrisArthas/HorizontalBars/raw/master/device-2017-08-18-161025.png)
 
-µÚ¶şÖÖ ºÍ µÚÈıÖÖÈç¹û²»ÓÃlistviewÒ²¿ÉÒÔÓÃÍ¬ÑùÔ­ÀíÏÔÊ¾¶¯»­
+ç¬¬äºŒç§ å’Œ ç¬¬ä¸‰ç§å¦‚æœä¸ç”¨listviewä¹Ÿå¯ä»¥ç”¨åŒæ ·åŸç†æ˜¾ç¤ºåŠ¨ç”»
 
-![Ô¤ÀÀĞ§¹û](https://github.com/chrisArthas/HorizontalBars/raw/master/device-2017-08-18-161008.png)
+![é¢„è§ˆæ•ˆæœ](https://github.com/chrisArthas/HorizontalBars/raw/master/device-2017-08-18-161008.png)
 
 
-![Ô¤ÀÀĞ§¹û](https://github.com/chrisArthas/HorizontalBars/raw/master/device-2017-08-18-160946.png)
+![é¢„è§ˆæ•ˆæœ](https://github.com/chrisArthas/HorizontalBars/raw/master/device-2017-08-18-160946.png)
